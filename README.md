@@ -7,7 +7,7 @@
 
 ![微信公众号](https://img-blog.csdnimg.cn/a0cd593d72a1410e80a957f4c4c166e3.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAdW5pcXVlX3BlcmZlY3Q=,size_20,color_FFFFFF,t_70,g_se,x_16)
 
-项目描述：该项目记录了博主的全部博客学习笔记。欢迎大家fork、star、watch以下。该项目长期维护
+项目描述：该项目记录了博主的全部博客学习笔记。欢迎大家fork、star、watch一下。该项目长期维护
 
 ，伙伴们也可以及时收到通知。现在免费开源出去。希望大家一起学习呀。
 
